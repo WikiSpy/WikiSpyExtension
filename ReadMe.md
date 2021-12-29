@@ -1,5 +1,11 @@
 # WikiSpy Chrome Extension
 
+WikiSpy is a tool to monitor Wikipedia and the internet for disinfo, misinfo, and other cyber threats. The WikiSpy Chrome Extension is similar to NewsGuard's 'nutrition labels' for rating reputable and not-reputable news sources.
+
+The Extension will highlight text in your browser in real-time to detect disinfo, misinfo, propaganda from State actors, political parties, corporations, threat actors, etc and link you to educational content to help you learn the facts and make more informed choices. The Extension will have a watch list for Wikipedia where you can highlight groups of users and admin's contributions so you can see what groups of people have made which changes to the wiki. A similar highlighting system will be used to show questionable citations like CNN. When you hover over highlighted text it will pop up the 'nutrition label' and show you what the colors mean along with some badges to give you more information and context about the content and sources.
+
+The Extension open-source and will work with a closed source back-end web service. The web service will have a machine learning algorithm disinfo, misinfo, propaganda, cyber threat pattern recognition system that will be a paid service.
+
 ## License
 
 Copyright © 2021 [WikiSpy](https://wikispy.us); most rights reserved, Third-party commercialization prohibited, mandatory improvement donations.
